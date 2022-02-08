@@ -3,10 +3,10 @@ A repository of Machine Learning algorithms from scratch
 
 The list of algorithms will be updated as they are added.
 
-- Regression
+- **Regression**
   - Linear Regression
   - Logistic Regression
 
-- Support Vector Machines
+- **Support Vector Machines**
   
-- Neural Networks
+- **Neural Networks**
